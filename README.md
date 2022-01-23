@@ -50,6 +50,4 @@ I have deployed this project in AWS but due to lack of free credits shifted it t
 <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-=======
-# Machine-translation
->>>>>>> parent of 7256519... Update README.md
+
