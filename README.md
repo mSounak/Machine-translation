@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine-translation
 
 ## Introduction
